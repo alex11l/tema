@@ -1,0 +1,6 @@
+- extensie pe tema Luni (Alex)
+- curs pe github (Alex)
+- rulezi n Dame in C++ (Alex)
+- problema 3 pseudocode (Janos/Alex)
+- Python IDE and program structure (PyCharm, 3.4) (Janos)
+- trecut problema 3 din pseudocode --> python (Alex/Janos)
