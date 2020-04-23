@@ -9,4 +9,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-    print('Hello from the current module entry point')
+    print('Hello from the current module entry point changed')
