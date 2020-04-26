@@ -1,0 +1,35 @@
+Problem statement
+
+
+Course categories	Cost	CreditPoints	nrHours
+c1					1000	5				80
+c2					800		3				40
+c3					1500	8				100
+
+MaxBudget: 10000
+MaxHours: 700
+
+WA - Weighted Average
+WA(p1, p2, p3) = (p1 * c1 + p2 * c2 + p3 * c3) / (p1 + p2 + p3)
+
+
+Goal
+Find:
+(p1, p2, p3)
+
+for 
+MAX (WA(p1, p2, p3).CP)
+
+Where
+
+SUM(p1, p2, p3).Cost <= MaxBudget
+WA(p1, p2, p3).HR <=MaxHours
+WA(p1, p2, p3).CP
+
+
+-------------------------------------------------------------------
+pMax(i) = Budget / c(i).Cost
+
+
+For (x = pMax(1) to 1 x--)
+	#Find solution for 
